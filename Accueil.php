@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html>
     <head>
-		<?php include("Entete.php");?>
-    </head>
-     <body>
+
+     <?php include("Entete.php");?>
         <?php include("Menu.php");?>
+		
+        
+    </head>
+
+     <body>
+            <section>
+
+
+
+
+            </section>  
+
+            <img class="couverture" src="images/photoCouverture2.jpg" alt="Couverture"/>
             <section>
             
             <h1>Bienvenue au paradis des légumes et des fruit!</h1>
